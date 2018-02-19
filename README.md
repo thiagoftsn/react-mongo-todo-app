@@ -1,2 +1,2 @@
 # react-todo-app
-An todo app made with react
+A todo app made with react
